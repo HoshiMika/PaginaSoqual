@@ -1,1 +1,1 @@
-proyecto web que ofrece servicios integrales de tecnología para usuarios y empresas. Este sitio está desarrollado para gestionar solicitudes de soporte técnico, desarrollo web, instalación de sistemas de seguridad y venta de productos digitales.
+Proyecto web que ofrece servicios integrales de tecnología para usuarios y empresas. Este sitio está desarrollado para gestionar solicitudes de soporte técnico, desarrollo web, instalación de sistemas de seguridad y venta de productos digitales.
